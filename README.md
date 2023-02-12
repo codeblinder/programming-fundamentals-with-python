@@ -1,2 +1,4 @@
 # programming-fundamentals-with-python
-I am learning python and I will update this on daily bases
+I am learning python and I will update this on daily bases.
+
+# variable in python
